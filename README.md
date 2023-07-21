@@ -133,7 +133,6 @@ def SignUp():
 
 ## Step 5: Finally, everything was working!
 
-- Or atleast when we tried running it ourselves :P
 -   Here is the link to the video:
 
 ``` 
